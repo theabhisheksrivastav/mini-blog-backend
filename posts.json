@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding JavaScript Closures",
+      "content": "JavaScript closures are a powerful feature that allows functions to retain access to their lexical scope even when the function is executed outside that scope.",
+      "userId": "oWmyfvAsWkwYhpQ3Nz5s0"
+    },
+    {
+      "id": "2",
+      "title": "A Guide to CSS Flexbox",
+      "content": "CSS Flexbox is a layout model that provides an efficient way to lay out, align, and distribute space among items in a container.",
+      "userId": "oWmyfvAsWkwYhpQ3Nz5s0"
+    },
+    {
+      "id": "3",
+      "title": "Getting Started with React",
+      "content": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can change data without reloading the page.",
+      "userId": "oWmyfvAsWkwYhpQ3Nz5s0"
+    }
+  ]
+}
